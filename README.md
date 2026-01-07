@@ -1,4 +1,4 @@
-# ReceiptGen
+# Receipt Generator
 
 Monorepo with a simple backend (Express + MongoDB) and a Next.js + TypeScript frontend (TailwindCSS).
 
@@ -18,4 +18,4 @@ Quick start:
 Backend runs on port 5000 by default. Frontend runs on port 3000 by default.
 
 Notes: This scaffold includes an API at `GET/POST /api/receipts` used by the frontend.
-# receiptgen
+
